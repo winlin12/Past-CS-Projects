@@ -13,3 +13,4 @@
  * PURDUE UNIVERSITY
  */
 
+Note: I coded allocate_object and deallocate_object. Other functions are left in to help understand context of function calls.
